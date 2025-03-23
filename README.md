@@ -35,7 +35,7 @@ This project showcases a **NEAT (NeuroEvolution of Augmenting Topologies)** AI i
     - Unnecessary movements.
 
 - **Maximum Generations**:  
-  - 50.
+  - 50 Generations
 
 ---
 
